@@ -1,0 +1,9 @@
+{
+	"name": "pool-manager",
+	"description": "Pool manager for Delphi objects",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/pool-manager",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
